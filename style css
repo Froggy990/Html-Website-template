@@ -1,0 +1,19 @@
+Start to copy at h1.
+for h1 color click the white box and change the color
+for p1 font family delete where it says font-family: sans serif; and rewrite font-family: and put the font in here;
+for p1 color do the same as h1
+and for body where it says backround color do the same as p1 and h1
+copy everything under me!!
+h1 {
+ color: dfdfdf;
+}
+
+p1{
+ font-family: sans serif;
+}
+ p1{
+  color: dfdfdf;
+ }
+body{
+ backround-color: dfdfdf;
+}
