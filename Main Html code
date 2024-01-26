@@ -1,14 +1,14 @@
-<!DOCTYPE>
-<Html>
 
-<Head>
-<title>Put the name of the tab between these brakets<title>
+ <!DOCTYPE html>
+ <html>
+<head>
+    <link rel="stylesheet" href="Style.css ">
+    <title> tab name here!!</title>
+</head>
+<body>
+    <h1>Big text reccomend name of website</h1>
 
-<Body>
-<h1> Put the name of your website in BIG text here!!<h1>
-<p1>put what ever you want here this is just a small sentence!<p1>
-<Body>
+    <p1> small text reccomend making it what the section is about</p1>
+</body>
 
-<Head>
-
- <Html>
+ </html>
