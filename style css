@@ -1,19 +1,28 @@
 Start to copy at h1.
-for h1 color click the white box and change the color
+for h1 color click the aqua box and change the color
 for p1 font family delete where it says font-family: sans serif; and rewrite font-family: and put the font in here;
 for p1 color do the same as h1
 and for body where it says backround color do the same as p1 and h1
 copy everything under me!!
 h1 {
- color: dfdfdf;
+    color: aqua;
 }
 
-p1{
- font-family: sans serif;
+h1 {
+    font-family: fantasy;
 }
- p1{
-  color: dfdfdf;
- }
+p1 {
+    color: aqua;
+}
+
+p1 {
+    font-family: font name;
+}
+
+p1 {
+    font-size: font size;
+}
+
 body{
- backround-color: dfdfdf;
+    background-color: aqua;
 }
